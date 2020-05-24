@@ -1,2 +1,3 @@
 # Shopping--Website
-Angular application with Html,Css, BootStrap
+This is a shopping Website named GIRLSHOP.COM, I used Html, CSS, BootStrap. This is just a front end of the website.
+
