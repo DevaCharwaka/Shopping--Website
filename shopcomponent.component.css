@@ -1,0 +1,34 @@
+#jumb{
+    text-align:center;
+color:indigo;
+
+}
+
+#para{
+color: black;
+text-align:center;
+font-size: 27px;
+}
+#navbarNav{
+    font-size:21px;
+    color: black; 
+}
+#btns{
+text-align:center;
+vertical-align: bottom;
+
+}
+.jumbs{
+
+    background-image: url(e://Shaadi.com/priscilla-du-preez-228220-unsplash3.jpg);
+    background-size: cover;
+color: white;
+}
+
+
+
+.reg{
+    background-image: url(e://Shaadi.com/jumbo1.jpg);
+    background-size: cover;
+color: white;
+}
